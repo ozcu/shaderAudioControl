@@ -1,4 +1,6 @@
-# Three.js - Template - Simple
+# Shader Audio Control
+
+Demo -> https://shader-audio-control.vercel.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
